@@ -1,0 +1,15 @@
+Dockerfile
+.dockerignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+/tmp
+temp_rinex/
+*.obs
+*.nav
+*.gz
